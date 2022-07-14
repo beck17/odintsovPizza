@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/odintsovPizza/static/css/main.7cbe9168.chunk.css",
+    "main.js": "/odintsovPizza/static/js/main.9011ebe2.chunk.js",
+    "main.js.map": "/odintsovPizza/static/js/main.9011ebe2.chunk.js.map",
+    "runtime-main.js": "/odintsovPizza/static/js/runtime-main.d0c4636c.js",
+    "runtime-main.js.map": "/odintsovPizza/static/js/runtime-main.d0c4636c.js.map",
+    "static/js/2.ea72b929.chunk.js": "/odintsovPizza/static/js/2.ea72b929.chunk.js",
+    "static/js/2.ea72b929.chunk.js.map": "/odintsovPizza/static/js/2.ea72b929.chunk.js.map",
+    "index.html": "/odintsovPizza/index.html",
+    "precache-manifest.43087daa616b632157caeb063d5d9b07.js": "/odintsovPizza/precache-manifest.43087daa616b632157caeb063d5d9b07.js",
+    "service-worker.js": "/odintsovPizza/service-worker.js",
+    "static/css/main.7cbe9168.chunk.css.map": "/odintsovPizza/static/css/main.7cbe9168.chunk.css.map",
+    "static/js/2.ea72b929.chunk.js.LICENSE.txt": "/odintsovPizza/static/js/2.ea72b929.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/odintsovPizza/static/media/ProximaNova-Regular.b7c51278.eot",
+    "static/media/pizza-logo.svg": "/odintsovPizza/static/media/pizza-logo.f3327011.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0c4636c.js",
+    "static/js/2.ea72b929.chunk.js",
+    "static/css/main.7cbe9168.chunk.css",
+    "static/js/main.9011ebe2.chunk.js"
+  ]
+}
